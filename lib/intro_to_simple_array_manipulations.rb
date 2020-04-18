@@ -1,9 +1,9 @@
 def using_push = []
-  using_push.push ""
+  using_push.push
 end
 
 def using_unshift = []
-  using_unshift.unshift ""
+  using_unshift.unshift
 end
 
 def using_pop = []

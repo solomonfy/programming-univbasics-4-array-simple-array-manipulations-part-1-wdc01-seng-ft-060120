@@ -2,8 +2,8 @@ def using_push = ["colors_in_the_rainbow"]
   using_push.push "next_color"
 end
 
-def using_unshift = ["@new_neighborhood"]
-  using_unshift.unshift "bouroughs_in_nyc"
+def using_unshift = []
+  using_unshift.unshift ""
 end
 
 def using_pop = []
